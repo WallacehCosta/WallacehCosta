@@ -6,6 +6,6 @@ A passionate student and developer focused on **Machine Learning** and **Deep Le
 
 I believe in the transformative power of technology, and I am committed to advancing my skills and knowledge to build AI solutions that can create real-world impact.
 
-**🌎 Living in Brasil**
+🌎 Living in **Brasil**
 
 🛠️ **Skills**: Python, JavaScript, TensorFlow, Keras, Scikit-learn, Pandas, NumPy, Matplotlib, Seaborn.
