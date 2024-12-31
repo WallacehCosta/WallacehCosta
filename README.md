@@ -1,6 +1,6 @@
 # Hello! I’m Wallace Costa 👋
 
-## **Machine Learning Engineer/Developer**
+## **🤖 Machine Learning Engineer/Developer**
 
 A passionate student and developer focused on **Machine Learning** and **Deep Learning** solutions. Currently, I am working on projects that aim to innovate and provide meaningful contributions to the field of Artificial Intelligence.
 
