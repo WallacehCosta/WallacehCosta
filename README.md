@@ -13,7 +13,7 @@ I believe in the transformative power of technology, and I am committed to advan
 ### **Languages**
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40" alt="Python"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40" height="40" alt="C-language"/>
+  <img [src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40" height="40" alt="C-language"]/>
 </p>
 
 ### **Frameworks & Libraries**
