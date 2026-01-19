@@ -1,23 +1,29 @@
 # Hello! I’m Wallace Costa 👋
 
-## **Machine Learning Engineer/Developer**
+## **Backend & Machine Learning Developer**
 
-A passionate student and developer focused on **Machine Learning** and **Deep Learning** solutions. Currently, I am working on projects that aim to innovate and provide meaningful contributions to the field of Artificial Intelligence.
+A passionate developer focused on building **backend systems** and **Machine Learning–powered applications**. I work mainly with Python, developing RESTful APIs, authentication flows, and data-driven services that integrate ML models into real-world systems.
 
-I believe in the transformative power of technology, and I am committed to advancing my skills and knowledge to build AI solutions that can create real-world impact.
+My goal is to design scalable, well-structured backend solutions while continuously expanding my knowledge in Machine Learning and Artificial Intelligence to create practical and impactful software.
 
-🌎 Living in **Brasil**
+🌎 Living in **Brazil**
 
 ## 🛠️ Skills
 
 ### **Languages**
 <p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40" alt="Python"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40" alt="Python"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40" alt="JavaScript"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40" height="40" alt="C-language"/>
-  </p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40" height="40" alt="C-language"/>
+</p>
 
-### **Frameworks & Libraries**
+### **Backend & Frameworks**
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" width="40" height="40" alt="FastAPI"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlalchemy/sqlalchemy-original.svg" width="40" height="40" alt="SQLAlchemy"/>
+</p>
+
+### **Machine Learning & Data**
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="40" height="40" alt="TensorFlow"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/keras/keras-original.svg" width="40" height="40" alt="Keras"/>
@@ -26,9 +32,8 @@ I believe in the transformative power of technology, and I am committed to advan
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" width="40" height="40" alt="Matplotlib"/>
 </p>
 
-### **Data Science & Machine Learning**
+### **Data Science & ML Tools**
 <p>
   <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
   <img src="https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
 </p>
-
