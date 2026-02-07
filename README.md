@@ -2,13 +2,11 @@
 
 ## Backend Developer
 
-I’m a backend-focused developer with experience building reliable, well-structured server-side systems using Python.
+I’m a backend-focused developer working with Python to build reliable, well-structured server-side systems.
 
-My work is centered on designing RESTful APIs, implementing authentication and authorization flows, modeling databases, and enforcing business rules in a clear and maintainable way. I prioritize clean architecture, separation of concerns, and code that can evolve safely over time.
+I design RESTful APIs, handle authentication and authorization, model databases, and implement business rules with a strong focus on clean architecture and maintainability.
 
-I’m particularly interested in building backend systems that are scalable, secure, and aligned with real business needs, rather than one-off or purely academic solutions.
-
-I’m continuously improving my understanding of backend architecture, system design, and best practices used in real-world production environments.
+My goal is to build scalable, secure backend systems aligned with real business needs, while continuously improving my understanding of system design and production-grade practices.
 
 🌎 Living in **Brazil**
 
