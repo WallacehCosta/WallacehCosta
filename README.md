@@ -1,11 +1,14 @@
 # Hello! I’m Wallace Costa 👋
 
-## Backend & Machine Learning Developer
+## Backend Developer
 
-A passionate developer focused on building **backend systems** and **Machine Learning–powered applications**.  
-I work mainly with **Python**, developing **RESTful APIs**, **authentication flows**, and **data-driven services** that integrate ML models into real-world systems.
+I’m a backend-focused developer with experience building reliable, well-structured server-side systems using Python.
 
-My goal is to design **scalable, well-structured backend solutions** while continuously expanding my knowledge in **Machine Learning** and **Artificial Intelligence** to create practical and impactful software.
+My work is centered on designing RESTful APIs, implementing authentication and authorization flows, modeling databases, and enforcing business rules in a clear and maintainable way. I prioritize clean architecture, separation of concerns, and code that can evolve safely over time.
+
+I’m particularly interested in building backend systems that are scalable, secure, and aligned with real business needs, rather than one-off or purely academic solutions.
+
+I’m continuously improving my understanding of backend architecture, system design, and best practices used in real-world production environments.
 
 🌎 Living in **Brazil**
 
@@ -24,20 +27,26 @@ My goal is to design **scalable, well-structured backend solutions** while conti
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![Pydantic](https://img.shields.io/badge/Pydantic-E92063?style=for-the-badge&logo=pydantic&logoColor=white)
 ![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-D71F00?style=for-the-badge)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
 ---
 
-### Machine Learning & Data
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
-![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+### Architecture & Backend Concepts
+![REST API](https://img.shields.io/badge/REST%20API-005571?style=for-the-badge)
+![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
+![RBAC](https://img.shields.io/badge/RBAC-4A4A4A?style=for-the-badge)
+![Multi--Tenant](https://img.shields.io/badge/Multi--Tenant-3A7AFE?style=for-the-badge)
+![API Versioning](https://img.shields.io/badge/API%20Versioning-6E40C9?style=for-the-badge)
+
+---
+
+### Data Handling & Persistence
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 
 ---
 
-### Data Visualization
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge)
-![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge)
+### DevOps & Tooling
+![CI/CD](https://img.shields.io/badge/CI%2FCD-0A0A0A?style=for-the-badge)
+![Environment Management](https://img.shields.io/badge/Environment%20Management-555555?style=for-the-badge)
