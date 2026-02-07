@@ -31,16 +31,7 @@ I’m continuously improving my understanding of backend architecture, system de
 
 ---
 
-### Architecture & Backend Concepts
-![REST API](https://img.shields.io/badge/REST%20API-005571?style=for-the-badge)
-![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
-![RBAC](https://img.shields.io/badge/RBAC-4A4A4A?style=for-the-badge)
-![Multi--Tenant](https://img.shields.io/badge/Multi--Tenant-3A7AFE?style=for-the-badge)
-![API Versioning](https://img.shields.io/badge/API%20Versioning-6E40C9?style=for-the-badge)
-
----
-
-### Data Handling & Persistence
+### Data & Persistence
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
@@ -48,5 +39,6 @@ I’m continuously improving my understanding of backend architecture, system de
 ---
 
 ### DevOps & Tooling
-![CI/CD](https://img.shields.io/badge/CI%2FCD-0A0A0A?style=for-the-badge)
-![Environment Management](https://img.shields.io/badge/Environment%20Management-555555?style=for-the-badge)
+![Docker Compose](https://img.shields.io/badge/Docker%20Compose-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
